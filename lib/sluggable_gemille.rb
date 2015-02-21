@@ -1,4 +1,4 @@
-module Sluggable
+module SluggableGemille
   extend ActiveSupport::Concern
 
   included do
