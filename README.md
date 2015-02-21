@@ -2,4 +2,4 @@ A robust slugging gem that replaces non-alphanumeric characters with a dash and 
 
 After installing the gem, require 'sluggable_gemille'
 
-For the models to which you'd like to add this functionality, include SluggableGemille.
+For the models to which you'd like to add this functionality, include SluggableGemille and specify your sluggable_column (Ex.: sluggable_column title).
