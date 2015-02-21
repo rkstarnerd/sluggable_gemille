@@ -1,4 +1,4 @@
-A gem created to add slugging functionality to urls when creating an object.
+A robust slugging gem that replaces non-alphanumeric characters with a dash and removes multiple, consecutive instances of a dash when generating a slug.
 
 After installing the gem, require 'sluggable_gemille'
 
